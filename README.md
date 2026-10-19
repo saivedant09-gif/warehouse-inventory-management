@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Warehouse Inventory Management System (WIMS)
 **Second-Year B.Tech CSE DBMS Course Project**
 
@@ -345,3 +346,6 @@ All responses return standard JSON with `success: true|false` and informative me
   Change `PORT=5001` in `backend/.env` and update `VITE_API_BASE_URL=http://localhost:5001/api` in `frontend/.env`.
 - **Foreign Key Deletion Error (409 Conflict)**:  
   Foreign key constraints prevent deletion of referenced entities. Delete or reassign dependent records first.
+=======
+# warehouse-inventory-management
+>>>>>>> efbbfafbe93158f264186d76f093d738c0f40e2c
